@@ -42,6 +42,14 @@ The following class diagram (UML) shows the classes that are required to store i
 
 ![](AddressBookDiagram.png)
 
+A class ContactService must be created. It manages all of the Contact objects in the system. A single instance of the ContactService class must be created for this application. 
+The ContactService object may be declared in the main() method and instantiated in the dedicated init() method.
+
+The program should also allow the user to perform the following three auxiliary operations:
+- View the full list of all contacts
+- Find and display a contact based on their first name and last name (you must allow the user to enter in the console the first and last name)
+- View all contacts that live in a particular City (you must allow the user to enter in the console a city to search for)
+
 
 
 
