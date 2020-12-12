@@ -106,14 +106,3 @@ public class Dog {
                 '}' + "\n";
     }
 }
-
-
-//            System.out.println("Please double check the birthdate of the dog, " + getName() +
-//                    ". Age cannot be less than 0 or higher than 25.");
-//            System.out.print("Enter new age for dog " + getName() + ": ");
-
-//    public double getUserInputInt() {
-//        Scanner input = new Scanner(System.in);
-//        double age = input.nextInt();
-//        return age;
-//    }
