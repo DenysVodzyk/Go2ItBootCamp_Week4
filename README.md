@@ -31,3 +31,17 @@ Overview:
 - View dog: Asks the user for a id of the dog and then displays the dog information, if found, and “There is no dog with that id..” if it is not found.
 - Update dog home status: Asks the user for an id. If a dog with that id is found, the “hasFoundHome” status is changed to true and the dog information is to be displayed. If the dog is not found, the message “There is no dog with that id..”  should be displayed.
 
+# Address Book Task 
+
+Create an application that will serve users with Address Book features.
+The program should allow the user to:
+- add, 
+- edit and 
+- delete contacts. 
+The following class diagram (UML) shows the classes that are required to store information for each contact:
+
+![](AddressBookDiagram.png)
+
+
+
+
